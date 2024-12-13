@@ -1,6 +1,14 @@
 .normal, 
-.reverse {
+.other {
   font-size:28px;
   font-family: Helvetica, "Times New Roman", sans-serif;
+}
 
+.normal {
+  background-color: #000000;
+  color: #ffffff;
+}
+
+.other {
+  background-color: #ffff00;
 }
